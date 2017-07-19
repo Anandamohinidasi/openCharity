@@ -1,0 +1,23 @@
+/*
+media breakpoints names and default sizes inspired by bootstrap defaults
+so its easy and familiar to use and understand by any person who trys to use 
+this theme
+*/
+
+$medias: (
+    lg : 1200px, // Extra large devices (large desktops, 1200px and up)
+    md : 992px, // Large devices (desktops, 992px and up)
+    sm: 768px, // Medium devices (tablets, 768px and up)
+    xs: 576px // Small devices (landscape phones, 576px and up)
+)
+
+// @mixin media-breakpoint-up($media) {
+//     @media screen and (min-width: map-get($medias, $media)){
+//         width: 10px;
+//     }
+    
+// }
+
+// @mixin media-breakpoint-down($media) {
+    
+// }

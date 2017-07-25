@@ -270,13 +270,6 @@
         </div>
       </div>
     </div>
-    <div class="our-members">
-      <div class="row">
-        <div class="col-12">
-          <h1 class="bold-text">OUR MEMBERS</h1>
-        </div>
-      </div>
-    </div>
     </div>
 
     

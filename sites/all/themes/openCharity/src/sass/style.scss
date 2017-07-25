@@ -2,6 +2,7 @@
 @import 'grid.scss';
 @import 'buttons.scss';
 @import 'fontawesome.css';
+
 /* ---------- Overall Specifications ---------- */
 
 body {
@@ -640,6 +641,7 @@ h1#site-name {
 #main {
   margin-top: 20px;
   margin-bottom: 40px;
+  background: $neutral;
 }
 
 
